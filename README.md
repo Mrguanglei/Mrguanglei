@@ -1,6 +1,7 @@
 ### Hi there 👋,I'm Liu.
 
 - 🔭 I’m currently working on something cool.
+- :mortar_board:    I come from the Chinese Academy of Sciences
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: mrguanglei@163.com
