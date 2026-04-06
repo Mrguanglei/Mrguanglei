@@ -88,7 +88,6 @@ expertise = {
 I'm always excited to discuss AI, share knowledge, and collaborate on innovative projects!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrguanglei@163.com)
-[![CSDN](https://img.shields.io/badge/CSDN-FF6B35?style=for-the-badge&logo=rss&logoColor=white)](https://blog.csdn.net/weixin_45734343?type=blog)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrguanglei)
 
 ---
